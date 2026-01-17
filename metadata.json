@@ -1,0 +1,8 @@
+{
+  "name": "ForgeBrowser IDE",
+  "description": "A high-performance AI-powered developer workspace featuring unified search, local engine configuration, and automated security auditing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
